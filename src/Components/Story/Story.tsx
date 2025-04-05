@@ -6,6 +6,8 @@ import './story.css'
 
 /* Section__title szövegét alakítsd át nagybeűssé a css-ben */
 
+
+
 const Story = () => {
   return (
     <section className="story">
@@ -28,7 +30,7 @@ const Story = () => {
         </div>
 
         <div className="story__images">
-            <img src="/img/story.png" alt="" className="story__img"/>
+            {/* Itt jelenítsd meg a story.png képet, add hozzá a story__img osztályt */}
             <div className="story__square"></div>
         </div>
     </div>

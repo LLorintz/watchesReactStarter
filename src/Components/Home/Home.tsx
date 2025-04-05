@@ -2,6 +2,8 @@ import './home.css'
 
 {/*A .home_social osztályú elemre állíts be 90 fokos elforgatást a css-ben!*/}
 
+{/*A home__img-bg osztálykijelőlö elem háttérszine legyen a first-color a home.css-ben*/}
+
 const Home = () => {    
   return (
     <section className="home" id="home">

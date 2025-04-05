@@ -1,4 +1,7 @@
+import './newsletter.css'
 
+{/*Állítsd be a newsletter.css-ben Az input mező és a subscribe gomb 767px alatt kerüljön 
+    egymás alá afölött pedig egymás mellé */}
 
 const NewSletter = () => {
   return (

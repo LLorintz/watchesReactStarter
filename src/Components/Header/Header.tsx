@@ -14,7 +14,9 @@ const Header = () => {
     A vásárlási lista egy külön komponens a Cart mappában.
     */}
 
+  {/* Állítsd be az App.css-ben az ul osztályszelektornak, hogy a listaelemek pontok nélkül jelenjenek meg */}
 
+  
 
   return (
     <>
