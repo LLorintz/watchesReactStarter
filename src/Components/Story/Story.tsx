@@ -1,10 +1,11 @@
 import './story.css'
+{/* Az alábbiakat állítsd be a story.css-ben */}
 
 {/* 767px fölöt kerüljenek egymás mellé a story_data és story_images egymás mellé */}
 
 {/* Story_-title mérete legyen h1-font-size */}
 
-/* Section__title szövegét alakítsd át nagybeűssé a css-ben */
+/* Section__title szövegét alakítsd át nagybetűssé */
 
 
 

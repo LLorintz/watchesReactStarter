@@ -7,11 +7,11 @@ const Header = () => {
 
   {/*Adj a theme ikonhoz egy olyan funkciót amivel váltogatni lehet a light és dark mode között*/}
   
-  {/*Adj egy funkciót a toggle ikonhoz amivel le lehet nyitni a navigációs menüt a close ikonnal meg bezárni*/}
+  {/*Adj egy funkciót a toggle ikonhoz amivel mobilnézetben le lehet nyitni a navigációs menüt a close ikonnal meg bezárni*/}
 
   {/*
     Adj egy funkciót a cart-shop ikonhoz amivel le lehet nyitni a vásárlási listát
-    A vásárlási lista egy külön komponens a Cart mappában.
+    A vásárlási lista egy külön komponens.
     */}
 
   {/* Állítsd be az App.css-ben az ul osztályszelektornak, hogy a listaelemek pontok nélkül jelenjenek meg */}

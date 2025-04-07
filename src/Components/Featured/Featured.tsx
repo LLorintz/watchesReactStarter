@@ -5,7 +5,7 @@ import FeatureCard from './featuredCard/FeatureCard'
 
 {/* Fetcheld be az adatokat a featured jsonból és jelenítsd meg a featured_container elemből*/}
 
-{/*Az órák 992px szélesség alatt egymás alá kerüljenek a fölött pedig egymás mellé */}
+{/* Állítsd be a featured.css-ben, hogy az órák 992px szélesség alatt egymás alá kerüljenek a fölött pedig egymás mellé */}
 
 
 const Featured = () => {

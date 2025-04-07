@@ -3,7 +3,7 @@ import './featurecard.css'
 
 {/*Hozz létre egy típust ami alklmas a feature.json adatainak tárolására */}
 
-{/*Egészítsd ki a komponenst a megfelelő props használattal */}
+{/*Egészítsd ki a komponenst a megfelelő props-ok használatával */}
 
 const FeatureCard = () => {
   return (
